@@ -1,0 +1,29 @@
+.bg-info{
+    background: orangered!important;
+}
+.bg-danger{
+    background: orangered!important;
+}
+.text-danger{
+    color: orangered!important;
+}
+footer img{
+        width: 80px;
+        height: 80px;
+    }
+#offer .title::after{
+    content:"";
+    display: block;
+    width: 150px;
+    height: 5px;
+    background-color: orangered;
+    margin:10px auto;
+    border-radius: 10px;
+} 
+.carousel-caption {
+   
+    right: 0%;
+    bottom: 0;
+    left: 10%;
+    top:40%;
+}
